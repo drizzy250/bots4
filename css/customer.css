@@ -1,0 +1,40 @@
+#logo{
+	background-color: red;
+}
+#banner{
+	background-color: gray;
+}
+#social{
+	background-color: cyan;
+}
+#brand{
+	background-color: #ccc;
+}
+#navigation{
+	background-color: green;
+}
+#searchbox{
+	background-color: #f4f4f4;
+}
+#slidebar{
+	background-color: skyblue;
+	height: 300px;
+	width: 1140px;
+	margin-left: -15px;
+}
+#l-col{
+	background-color: yellow;
+}
+#c-col{
+	background-color: #1df5f5;
+}
+#r-col{
+	background-color: #f4f4f4;
+}
+#mainfooter p{
+	background: url("../images/a.jpg");
+	background-color: orange;
+	width: 1140px;
+	margin-left: -15px;
+}
+.jum
